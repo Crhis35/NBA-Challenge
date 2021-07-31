@@ -1,0 +1,11 @@
+{
+  "name": "nba",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Test",
+  "author": "Crhistian Caraballo",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
