@@ -88,7 +88,7 @@ class Tree {
   }
 
   /**
-   * @param {Object} obj1 - The first object with sorted by height.
+   * @param {Array} obj1 - The first object with sorted by height.
    * @param {Number} i - The Index where start to find the pair.
    * @param {Number} n - The Index where end to find the pair.
    * @param {Object} obj2 - The second object with sorted by height.
