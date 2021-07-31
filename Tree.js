@@ -66,7 +66,7 @@ class Tree {
     this.#printPairUtil(inOrder, this.size, this.size - 1, k);
   }
   /**
-   * @param {Object} obj1 - The first object with sorted by height.
+   * @param {Array} obj1 - The first array of object with sorted by height.
    * @param {Number} i - The Index where start to find the pair.
    * @param {Number} n - The Index where end to find the pair.
    * @param {Object} obj2 - The second object with sorted by height.
@@ -88,10 +88,10 @@ class Tree {
   }
 
   /**
-   * @param {Array} obj1 - The first object with sorted by height.
+   * @param {Array} obj1 - The first arrray of object with sorted by height.
    * @param {Number} i - The Index where start to find the pair.
    * @param {Number} n - The Index where end to find the pair.
-   * @param {Object} obj2 - The second object with sorted by height.
+   * @param {Array} obj2 - The second array of object with sorted by height.
    * @returns {Void} - does not return anything
    */
 

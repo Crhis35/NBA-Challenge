@@ -1,8 +1,6 @@
 # NBA Challenge
 
-#Resume 
-printPairs functions take a sorted array who compare each node to find a pairs Time Complexity is O(n * h) which height was performen using AVL tree and iterative Inorder to perform space.
-
+Resume printPairs functions take a sorted array who compare each node to find a pairs. Time Complexity is O(n * h) which height was performen using AVL tree and iterative Inorder to perform space.
 
 ## Configurations
 
